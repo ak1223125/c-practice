@@ -4,7 +4,7 @@ void greet()
 {
     printf("good morning\n");
     return;
-}4
+}
 
 int main()
 {
